@@ -1,3 +1,3 @@
-# 100-python-challanges
+# python-challanges
 
 Testing my own python skills. Cheers!!!
